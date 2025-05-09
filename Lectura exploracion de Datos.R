@@ -1,0 +1,1 @@
+#aqui poner el ejericcio echo de explroacion de datos
